@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Morning Walk",
+      "day": "November 17, 2022 @6am",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Doctor's Appointment",
+      "day": "November 18, 2022 @2:30pm",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Coding Interview",
+      "day": "Nov 19, 2022 Saturday @11A.M.",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
